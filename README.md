@@ -3,7 +3,7 @@ Dispatch AUTHORIZATION
 
 Greetings,
 
-We'd like to share information regarding your existing plan arrangement with details related to the current payment setup. We want to ensure you're aware of how the service is currently configured.
+We'd like to share information regarding your existing plan arrangement with details related to the current payment setup. We want to ensure you're aware of how the service is currently configured. 
 
 ----------------------------------------
 DETAILS:
